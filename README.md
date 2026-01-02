@@ -1,16 +1,20 @@
-## Hi there 👋
+# Pradeep Kumar
 
-<!--
-**intmax2147/intmax2147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+Computer Science graduate(2025). Worked sometime as Salesforce Developer. Currently Unemployed.
 
-Here are some ideas to get you started:
+### What's in my Github
+1. LWC Codes (Related to Salesforce)
+2. Apex Code (Again, related to Salesforce)
+3. WebDev( HTML, CSS and JS)
+4. C/C++ Code'
+5. Assembly (little bit)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What tech I know
+1. Salesforce(Admin + Development)
+2. JavaScript
+3. C/C++
+4. Assembly
+
+
+
